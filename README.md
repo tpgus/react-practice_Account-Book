@@ -2,14 +2,7 @@
 
 ---
 * v1.0.1
-
-<details>
-<summary>사용된 개념 및 학습 내용</summary>
-<div markdown="1">
-
-  - 컴포넌트 합성을 통한 코드의 재사용
-</div>
-</details>
+- 정적인 데이터들을 화면에 표시만 해주고 있는 상태
 
 ![스크린샷, 2022-06-12 14-36-37](https://user-images.githubusercontent.com/43470398/173217279-0eea0f6e-77f6-41f0-bc68-49be86ec18cb.png)
 
