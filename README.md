@@ -27,3 +27,25 @@ setCount(prevCount => prevCount+1);
 </details>
 
 ![스크린샷, 2022-06-13 17-32-15](https://user-images.githubusercontent.com/43470398/173314036-ecd6924f-01e9-4b95-b34a-191d707fb7f7.png)
+
+---
+* v1.0.3
+
+<details>
+<summary>사용된 개념 및 학습 내용</summary>
+<div markdown="1">
+
+- 배열 고차함수 map을 이용한 렌더링 [key의 필요성](https://velog.io/@tpgus758/map-%EC%82%AC%EC%9A%A9%EC%8B%9C-%ED%82%A4-%EA%B0%92%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
+
+- 년도별 데이터 필터링
+
+- 이전 상태에 의존하는 상태를 업데이트
+
+```javascript
+// 기존 가계부에 새로운 데이터 추가하는 로직
+  function addExpenseHandler(expense) {
+    setExpenses((prevExpenses) => [expense, ...prevExpenses]);
+  }
+```
+</div>
+</details>
