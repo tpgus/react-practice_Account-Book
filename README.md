@@ -35,7 +35,7 @@ setCount(prevCount => prevCount+1);
 <summary>사용된 개념 및 학습 내용</summary>
 <div markdown="1">
 
-- 배열 고차함수 map을 이용한 렌더링 ([key의 필요성](https://velog.io/@tpgus758/map-%EC%82%AC%EC%9A%A9%EC%8B%9C-%ED%82%A4-%EA%B0%92%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C))
+- 배열 고차함수 map을 이용한 렌더링 (링크달기)
 
 - 년도별 데이터 필터링 및 조건부 렌더링 (데이터가 없을 때)
 
