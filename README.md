@@ -40,7 +40,7 @@ setCount(prevCount => prevCount+1);
 <summary>v1.0.3</summary>
 <div markdown="1">
 
-- 배열 고차함수 map을 이용한 렌더링 (블로그 링크)
+- 배열 고차함수 map을 이용한 렌더링 **(블로그 링크 달아 놓기)**
 
 - 년도별 데이터 필터링 및 조건부 렌더링(데이터가 있을 때와 없을 때)
 
