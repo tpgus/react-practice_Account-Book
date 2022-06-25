@@ -60,3 +60,14 @@ setCount(prevCount => prevCount+1);
  
 </div>
 </details>
+
+---
+<details>
+<summary>v1.0.4 : Typescript 사용</summary>
+<div markdown="1">
+
+- 내용1
+- 내용2
+
+</div>
+</details>
