@@ -1,4 +1,4 @@
-리액트 학습을 위한 연습 프로젝트 : 가계부
+리액트 학습을 위한 연습 프로젝트 : **가계부 프로젝트**
 
 ---
 
@@ -62,6 +62,6 @@ setCount(prevCount => prevCount+1);
 </details>
 
 ---
-[Typescript로 리팩토링한 버전](https://github.com/tpgus/typescript_react/tree/main/account-book)
+[Typescript로 리팩토링한 가계부 프로젝트](https://github.com/tpgus/typescript_react/tree/main/account-book)
 
 
