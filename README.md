@@ -62,12 +62,6 @@ setCount(prevCount => prevCount+1);
 </details>
 
 ---
-<details>
-<summary>v1.0.4 : Typescript 사용</summary>
-<div markdown="1">
+v2.0.0 : [Typescript 리팩토링](https://github.com/tpgus/typescript_react/tree/main/account-book)
 
-- 내용1
-- 내용2
 
-</div>
-</details>
